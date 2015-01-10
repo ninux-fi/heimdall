@@ -1,6 +1,6 @@
 {
-  "name": "hubot",
-  "version": "0.0.0",
+  "name": "heimdall",
+  "version": "0.1.0",
   "private": true,
   "author": "Alessio Caiazza <nolith@abisso.org>",
   "description": "He is the all-seeing and all-hearing guardian sentry of Asgard who stands on the rainbow bridge Bifrost to watch for any attacks to Asgard",
@@ -12,7 +12,6 @@
     "hubot-help": "~0.1.1",
     "hubot-google-images": "~0.1.2",
     "hubot-google-translate": "~0.1.0",
-    "hubot-heroku-keepalive": "0.0.4",
     "hubot-shipit": "~0.1.1",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "~2.5.16",
